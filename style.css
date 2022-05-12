@@ -1,0 +1,32 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    margin: 0%;
+}
+
+.Title {
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+}
+
+.search-container{
+    display: inline-block;
+}
+
+.city-container{
+    display: flex;
+    justify-content: right;
+    flex-direction: column;
+}
+
+.forcast-container{
+    display: inline-block;
+    display: flex;
+    justify-content: center;
+}
+
+
